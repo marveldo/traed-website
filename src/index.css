@@ -1,0 +1,247 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+.div{
+    background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+    background-size: cover;
+}
+
+.header{
+    padding-left: 9rem/* 144px */;
+    padding-right: 9rem/* 144px */;
+    
+}
+
+.list{
+    display : flex
+}
+::-webkit-scrollbar {
+    display: none;
+  }
+
+.overlay{
+    background: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 1), 
+        rgba(255, 255, 255, 0)  
+      );
+      z-index: 1;
+     
+}
+
+.writing{
+    width : 65vw;
+}
+.part2{
+    background-image: url(images/56bc9167ef14613cf4367a4f51d08ee0.png);
+    background-size: cover;
+
+}
+.div2{
+    justify-content: end;
+}
+
+.font-dm-sans {
+    font-family: 'DM Sans', sans-serif;
+
+  }
+.resnav{
+    background-color: rgba(52, 52, 59, 0.7)
+}
+
+  @media screen and (orientation: landscape) and (min-width :1024px){
+    .div{
+        background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+        background-position-x:right;
+        background-size: cover;
+    }
+    .img{
+        display : none
+    }
+    .resnav{
+        display: none;
+    }
+    .mainresfont{
+        font-size: 58px;
+    }
+    .sideresfont{
+        font-size: 15px;
+    }
+
+    .section1{
+        display : flex;
+        flex-direction: row;
+      
+        
+    } 
+    .picdiv{
+        width:80%;
+    }
+
+    .aboutusdiv{
+        width:50%
+    }
+    
+  }
+
+  @media screen and (orientation: landscape) and (max-width :950px){
+    .div{
+        background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+        background-position-x:center;
+        background-size: cover;
+    }
+    .writing{
+        width : 80vw;
+    }
+    .header{
+        padding-left:2px;
+        padding-right: 2px;
+       
+    }
+    .list{
+        display :none
+    }
+    .overlay{
+        background:  rgba(255, 255, 255, 0.2) ; 
+
+        
+          z-index: 1;
+         
+    }
+    .mainresfont{
+        font-size: 20px;
+    }
+    .sideresfont{
+        font-size: 10px;
+    }
+    .picdiv{
+        width:30%;
+    }
+    .aboutusdiv{
+        width:100%
+    }
+  }
+
+  
+
+  @media screen and (orientation: portrait) and (max-width :1024px) and (min-width : 600px){
+    .div{
+        background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+        background-position-x:right;
+        background-size: cover;
+    }
+    .writing{
+        width : 80vw;
+    }
+    .header{
+        padding-left:2px;
+        padding-right: 2px;
+       
+    }
+    .list{
+        display :none
+    }
+    .mainresfont{
+        font-size: 58px;
+    }
+    .sideresfont{
+        font-size: 15px;
+    }
+    .picdiv{
+        width:40%;
+    }
+    .div2{
+        justify-content: start;
+    }
+    .aboutusdiv{
+        width:100%
+    }
+  }
+
+  @media screen and (orientation: portrait) and (max-width :600px){
+    .div{
+        background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+        background-position-x:120vw;
+        background-size: cover;
+    }
+    .writing{
+        width : 80vw;
+    }
+    .header{
+        padding-left:2px;
+        padding-right: 2px;
+       
+    }
+    .list{
+        display :none
+    }
+    .overlay{
+        background:  rgba(255, 255, 255, 0.2) ; 
+
+        
+          z-index: 1;
+         
+    }
+    .mainresfont{
+        font-size: 25px;
+    }
+    .sideresfont{
+        font-size: 10px;
+    }
+    .picdiv{
+        width:80%;
+    }
+    .div2{
+        justify-content: end;
+    }
+
+    .part2{
+        background:  rgba(6, 186, 99, 1);
+       }
+
+    .aboutusdiv{
+        width:100%
+    }
+  }
+
+  
+  @media screen and (orientation: portrait) and (min-width :1024px) {
+    .div{
+        background-image: url(images/1e37a2e6b372b2087e0295479e2d4826.jpeg);
+        background-position-x:right;
+        background-size: cover;
+    }
+    .writing{
+        width : 80vw;
+    }
+    .header{
+        padding-left:2px;
+        padding-right: 2px;
+       
+    }
+    .list{
+        display :none
+    }
+
+    .mainresfont{
+        font-size: 58px;
+    }
+    .sideresfont{
+        font-size: 15px;
+    }
+    .picdiv{
+        width:70%;
+    }
+    .div2{
+        justify-content: start;
+    }
+    .aboutusdiv{
+        width:100%
+    }
+  }
+
+
