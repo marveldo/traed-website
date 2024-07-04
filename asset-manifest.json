@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/traed-website/static/css/main.562409f5.css",
+    "main.js": "/traed-website/static/js/main.17c87033.js",
+    "static/media/jpeg": "/traed-website/static/media/1e37a2e6b372b2087e0295479e2d4826.1c078b2a851d2d7b7df9.jpeg",
+    "static/media/png": "/traed-website/static/media/00c872c24b541c343ea9f2f88caa91eb.62f8be3fbccf6fc13f53.png",
+    "static/media/Rectangle 4383.png": "/traed-website/static/media/Rectangle 4383.85e61cebb691064a9a67.png",
+    "static/media/Rectangle 4382.png": "/traed-website/static/media/Rectangle 4382.05afd708d92071413f02.png",
+    "static/media/Image (Replace).png": "/traed-website/static/media/Image (Replace).d6727905f011ab2cd073.png",
+    "static/media/Frame 1171278769.png": "/traed-website/static/media/Frame 1171278769.e8b335b2ad0d35fa83ea.png",
+    "static/media/Group 2 (1).png": "/traed-website/static/media/Group 2 (1).a2d0508e3d12795865cc.png",
+    "static/media/Screen (replace here).png": "/traed-website/static/media/Screen (replace here).a53f6e7eb2d40b02d44f.png",
+    "static/media/Twitter.svg": "/traed-website/static/media/Twitter.8c10438269158a51c9210cdf7b7d2bfa.svg",
+    "static/media/div13.svg": "/traed-website/static/media/div13.eb849b24186dc27310deec9dcca2916c.svg",
+    "static/media/div.svg": "/traed-website/static/media/div.80b84a240e611ebc5b5b1ff8c590002f.svg",
+    "static/media/div4.svg": "/traed-website/static/media/div4.ac6fbb8d5d0cd0a5d9bc9d774c163d27.svg",
+    "static/media/div12.svg": "/traed-website/static/media/div12.6e474292345e2739e58db354ca20ddb4.svg",
+    "static/media/div9.svg": "/traed-website/static/media/div9.29eadf4bd3105fb2e1a2b7e449ad48ef.svg",
+    "static/media/div11.svg": "/traed-website/static/media/div11.768993573d97656eda2e718b5b2937b9.svg",
+    "static/media/div2.svg": "/traed-website/static/media/div2.dd641b7d507dbc8c9fe13c6f42c7f452.svg",
+    "static/media/div8.svg": "/traed-website/static/media/div8.bedafbaccca5540582ed33ec6ae79c2d.svg",
+    "static/media/div10.svg": "/traed-website/static/media/div10.966808f96d25568fa6b592fd56897beb.svg",
+    "static/media/Instagram.svg": "/traed-website/static/media/Instagram.7ff505ee696b6f6ba17522ff83b6cdca.svg",
+    "static/media/div3.svg": "/traed-website/static/media/div3.577754afbebca15af57bf230d1ec7d2f.svg",
+    "static/media/div5.svg": "/traed-website/static/media/div5.9592cbaf6d2f48be2261a0b350f3bb60.svg",
+    "static/media/div6.svg": "/traed-website/static/media/div6.fbd7733d7db95101ffeb276b723e338e.svg",
+    "static/media/LinkedIn.svg": "/traed-website/static/media/LinkedIn.3318f2bb1e776009122f6a83e02978f5.svg",
+    "static/media/div7.svg": "/traed-website/static/media/div7.ad7045a36626a333721ec69a6ea59486.svg",
+    "static/media/YouTube.svg": "/traed-website/static/media/YouTube.92bdf1920851cbd66e113ab4c2b2f9c8.svg",
+    "index.html": "/traed-website/index.html",
+    "static/media/Facebook.svg": "/traed-website/static/media/Facebook.b18f363b9551e721cdf0f8086bacf1e3.svg",
+    "static/media/Menu.svg": "/traed-website/static/media/Menu.91658e1aca5781c9ec40c9f7754bad11.svg",
+    "main.562409f5.css.map": "/traed-website/static/css/main.562409f5.css.map",
+    "main.17c87033.js.map": "/traed-website/static/js/main.17c87033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562409f5.css",
+    "static/js/main.17c87033.js"
+  ]
+}
